@@ -1,0 +1,2 @@
+ein.viertel=0.25
+ein.praefix="AgentTyp ein Bond"

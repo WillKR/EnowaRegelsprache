@@ -1,0 +1,2 @@
+ein.halb=0.5
+ein.praefix="Agent"
